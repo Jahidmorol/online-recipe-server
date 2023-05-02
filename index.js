@@ -1,9 +1,11 @@
 const express = require('express')
 const app = express()
-const port = 3000
+const port = process.env.PORT || 5000;
+
+const chefs = require('./data/chefs.json');
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send(chefs)
 })
 
 app.listen(port, () => {
