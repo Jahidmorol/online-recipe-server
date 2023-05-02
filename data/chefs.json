@@ -2,8 +2,10 @@
     {
       "id": 1,
       "name": "Gordon Ramsay",
-      "photo": "https://example.com/gordon-ramsay.jpg",
+      "photo": "https://pngimg.com/uploads/chef/chef_PNG185.png",
       "experience": 25,
+      "numRecipes": 110,
+      "likes": 40000,
       "recipes": [
         {
           "name": "Beef Wellington",
@@ -31,8 +33,10 @@
     {
       "id": 2,
       "name": "Ina Garten",
-      "photo": "https://example.com/ina-garten.jpg",
+      "photo": "https://pngimg.com/uploads/chef/chef_PNG94.png",
       "experience": 30,
+      "numRecipes": 250,
+      "likes": 27000,
       "recipes": [
         {
           "name": "Lemon Roasted Chicken",
@@ -60,7 +64,7 @@
     {
         "id": 3,
         "name": "Alexandra Guarnaschelli",
-        "photo": "https://www.foodnetwork.com/content/dam/images/food/fullset/2016/1/14/0/FN_alexandra-guarnaschelli-headshot-2017.jpg.rend.hgtvcom.616.616.suffix/1484399313472.jpeg",
+        "photo": "https://pngimg.com/uploads/chef/chef_PNG124.png",
         "experience": 25,
         "numRecipes": 75,
         "likes": 32000,
@@ -68,31 +72,33 @@
             {
                 "name": "Spaghetti Carbonara",
                 "ingredients": ["spaghetti", "bacon", "egg yolks", "Parmesan cheese", "black pepper", "heavy cream"],
-                "cookingMethod": "Boil the spaghetti, cook the bacon, whisk the egg yolks, add the Parmesan cheese, black pepper, and heavy cream to make the sauce, toss everything together.",
+                "method": "Boil the spaghetti, cook the bacon, whisk the egg yolks, add the Parmesan cheese, black pepper, and heavy cream to make the sauce, toss everything together.",
                 "rating": 4.8,
-                "isFavorite": false
+                "favorite": false
             },
             {
                 "name": "Lemon Bars",
                 "ingredients": ["all-purpose flour", "powdered sugar", "unsalted butter", "granulated sugar", "eggs", "lemons"],
-                "cookingMethod": "Mix flour, powdered sugar, and butter, press into pan, bake. Mix granulated sugar, eggs, and lemon juice and zest, pour over crust, bake.",
+                "method": "Mix flour, powdered sugar, and butter, press into pan, bake. Mix granulated sugar, eggs, and lemon juice and zest, pour over crust, bake.",
                 "rating": 4.6,
-                "isFavorite": false
+                "favorite": false
             },
             {
                 "name": "Chili Con Carne",
                 "ingredients": ["ground beef", "onion", "green bell pepper", "garlic", "tomato sauce", "chili powder"],
-                "cookingMethod": "Brown the ground beef, onion, green bell pepper, and garlic. Add tomato sauce, chili powder, and other spices as desired. Simmer until thickened and flavors melded.",
+                "method": "Brown the ground beef, onion, green bell pepper, and garlic. Add tomato sauce, chili powder, and other spices as desired. Simmer until thickened and flavors melded.",
                 "rating": 4.3,
-                "isFavorite": false
+                "favorite": false
             }
         ]
     },
     {
         "id": 4,
         "name": "Julia Child",
-        "photo": "https://example.com/julia-child.jpg",
+        "photo": "https://pngimg.com/uploads/chef/chef_PNG200.png",
         "experience": 40,
+        "numRecipes": 150,
+        "likes": 20000,
         "recipes": [
           {
             "name": "Boeuf Bourguignon",
@@ -120,8 +126,10 @@
     {
         "id": 5,
         "name": "Nigella Lawson",
-        "photo": "https://example.com/nigella-lawson.jpg",
+        "photo": "https://pngimg.com/uploads/chef/chef_PNG139.png",
         "experience": 15,
+        "numRecipes": 140,
+        "likes": 1034,
         "recipes": [
           {
             "name": "Pasta Carbonara",
@@ -149,29 +157,29 @@
     {
         "id": 6,
         "name": "Jamie Oliver",
-        "photo": "https://example.com/jamie.jpg",
-        "yearsOfExperience": 25,
-        "numRecipes": 150,
+        "photo": "https://pngimg.com/uploads/chef/chef_PNG140.png",
+        "experience": 25,
+        "numRecipes": 103,
         "likes": 10000,
         "recipes": [
           {
             "name": "Spaghetti Bolognese",
             "ingredients": ["spaghetti", "beef mince", "tomatoes", "onion", "garlic", "olive oil"],
-            "cookingMethod": "1. Cook the spaghetti according to the package instructions. \n2. Heat the olive oil in a pan and fry the onion and garlic until soft. \n3. Add the beef mince and fry until browned. \n4. Add the tomatoes and simmer for 20 minutes. \n5. Serve with the cooked spaghetti.",
+            "method": "1. Cook the spaghetti according to the package instructions. \n2. Heat the olive oil in a pan and fry the onion and garlic until soft. \n3. Add the beef mince and fry until browned. \n4. Add the tomatoes and simmer for 20 minutes. \n5. Serve with the cooked spaghetti.",
             "rating": 4.5,
             "favorite": false
           },
           {
             "name": "Roast Chicken",
             "ingredients": ["whole chicken", "potatoes", "carrots", "onion", "garlic", "butter"],
-            "cookingMethod": "1. Preheat the oven to 200°C. \n2. Cut the potatoes, carrots, and onion into chunks and place them in a roasting tin. \n3. Rub the chicken with butter and season with salt and pepper. \n4. Place the chicken on top of the vegetables. \n5. Roast in the oven for 1 hour and 20 minutes, or until the chicken is cooked through. \n6. Serve with the roasted vegetables.",
+            "method": "1. Preheat the oven to 200°C. \n2. Cut the potatoes, carrots, and onion into chunks and place them in a roasting tin. \n3. Rub the chicken with butter and season with salt and pepper. \n4. Place the chicken on top of the vegetables. \n5. Roast in the oven for 1 hour and 20 minutes, or until the chicken is cooked through. \n6. Serve with the roasted vegetables.",
             "rating": 4.8,
             "favorite": true
           },
           {
             "name": "Tiramisu",
             "ingredients": ["ladyfingers", "espresso", "sugar", "egg yolks", "mascarpone cheese", "cocoa powder"],
-            "cookingMethod": "1. Brew the espresso and add sugar to taste. \n2. Dip the ladyfingers in the espresso and layer them in a dish. \n3. Mix the egg yolks and sugar in a bowl. \n4. Add the mascarpone cheese and mix until smooth. \n5. Spread the mascarpone mixture over the ladyfingers. \n6. Refrigerate for at least 2 hours. \n7. Sprinkle cocoa powder over the top before serving.",
+            "method": "1. Brew the espresso and add sugar to taste. \n2. Dip the ladyfingers in the espresso and layer them in a dish. \n3. Mix the egg yolks and sugar in a bowl. \n4. Add the mascarpone cheese and mix until smooth. \n5. Spread the mascarpone mixture over the ladyfingers. \n6. Refrigerate for at least 2 hours. \n7. Sprinkle cocoa powder over the top before serving.",
             "rating": 4.7,
             "favorite": false
           }
