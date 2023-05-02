@@ -6,6 +6,7 @@
       "experience": 25,
       "numRecipes": 110,
       "likes": 40000,
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has over 30 years of experience in the culinary world and has become a household name through his numerous cooking shows and restaurants around the world.",
       "recipes": [
         {
           "name": "Beef Wellington",
@@ -37,6 +38,7 @@
       "experience": 30,
       "numRecipes": 250,
       "likes": 27000,
+      "bio": "Ina Garten, also known as the Barefoot Contessa, is an American chef, author, and television personality. She has been cooking for over 25 years and has written numerous cookbooks and hosted several cooking shows.",
       "recipes": [
         {
           "name": "Lemon Roasted Chicken",
@@ -68,6 +70,7 @@
         "experience": 25,
         "numRecipes": 75,
         "likes": 32000,
+        "bio": "Alexandra Guarnaschelli is an Israeli-British chef, restaurateur, and cookbook author. He has been cooking for over 15 years and is known for his creative use of vegetables and Mediterranean-inspired cuisine.",
         "recipes": [
             {
                 "name": "Spaghetti Carbonara",
@@ -99,6 +102,7 @@
         "experience": 40,
         "numRecipes": 150,
         "likes": 20000,
+        "bio": "Julia Child was an American chef, author, and television personality. He had over 30 years of experience in the culinary world and was known for his adventurous approach to food and his love for exploring different cultures through their cuisine.",
         "recipes": [
           {
             "name": "Boeuf Bourguignon",
@@ -130,6 +134,7 @@
         "experience": 15,
         "numRecipes": 140,
         "likes": 1034,
+        "bio": "Nigella Lawson is a British food writer, chef, and television personality. She has been cooking and writing about food for over 25 years and is known for her simple yet indulgent recipes and her focus on home cooking.",
         "recipes": [
           {
             "name": "Pasta Carbonara",
@@ -161,6 +166,7 @@
         "experience": 25,
         "numRecipes": 103,
         "likes": 10000,
+        "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He has been cooking for over 20 years and is known for his emphasis on using fresh ingredients and simple preparation methods.",
         "recipes": [
           {
             "name": "Spaghetti Bolognese",
