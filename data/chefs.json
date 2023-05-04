@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Gordon Ramsay",
-      "photo": "https://pngimg.com/uploads/chef/chef_PNG185.png",
+      "photo": "https://pngimg.com/uploads/chef/chef_PNG93.png",
       "experience": 25,
       "numRecipes": 110,
       "likes": 40000,
@@ -10,6 +10,7 @@
       "recipes": [
         {
           "name": "Beef Wellington",
+          "img" : "https://img.freepik.com/free-vector/hand-drawn-indian-cuisine-illustration_23-2149330390.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
           "ingredients": ["beef fillet", "puff pastry", "mushrooms", "prosciutto", "Dijon mustard"],
           "method": "Preheat the oven. Season the beef fillet, then sear it in a hot pan. Cover with a layer of mustard and mushrooms. Wrap in prosciutto and puff pastry, then bake in the oven until golden brown.",
           "rating": 4.5,
@@ -17,6 +18,7 @@
         },
         {
           "name": "Scrambled Eggs",
+          "img" : "https://img.freepik.com/premium-vector/creative-falafel-vector-design-best-asian-food-colorful-illustrations-design-premium-design_609667-284.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
           "ingredients": ["eggs", "butter", "salt", "pepper", "heavy cream"],
           "method": "Whisk eggs and cream together. Melt butter in a pan. Pour egg mixture into the pan and stir constantly until cooked to desired consistency.",
           "rating": 4.2,
@@ -24,6 +26,7 @@
         },
         {
           "name": "Lobster Risotto",
+          "img" : "https://img.freepik.com/premium-vector/fried-tofu-salad-soup-with-pepper-sesame-soy-sauce-asian-dish-vegetarians-vegans-vector-flat-food-illustration_427567-4254.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
           "ingredients": ["lobster", "arborio rice", "shallots", "garlic", "white wine", "parmesan cheese"],
           "method": "Cook the rice in a broth until al dente. Saute shallots and garlic, then add in the lobster meat. Add in white wine, then slowly stir in the rice. Top with grated parmesan cheese.",
           "rating": 4.8,
@@ -42,6 +45,7 @@
       "recipes": [
         {
           "name": "Lemon Roasted Chicken",
+          "img" : "https://img.freepik.com/premium-vector/asian-healthy-food-burger-noodles-chicken-meat-duck-meat_741965-89.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
           "ingredients": ["chicken", "lemon", "garlic", "thyme", "butter"],
           "method": "Place chicken in a roasting pan. Stuff with lemon and thyme. Rub with garlic and butter. Roast in the oven until cooked through.",
           "rating": 4.3,
@@ -49,6 +53,7 @@
         },
         {
           "name": "Macaroni and Cheese",
+          "img" : "https://img.freepik.com/premium-vector/locro-illustration-hand-drawn-style_23-2149200367.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
           "ingredients": ["macaroni", "butter", "flour", "milk", "cheddar cheese"],
           "method": "Cook macaroni according to package instructions. Make a roux with butter and flour. Whisk in milk and cook until thickened. Stir in grated cheddar cheese until melted. Mix in macaroni and serve.",
           "rating": 4.6,
@@ -56,6 +61,7 @@
         },
         {
           "name": "Beef Bourguignon",
+          "img" : "https://img.freepik.com/premium-vector/background-illustration-indonesian-food-meat_49673-154.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
           "ingredients": ["beef stew meat", "bacon", "carrots", "onion", "red wine", "beef broth"],
           "method": "Brown beef and bacon in a large pot. Add in carrots and onion. Pour in red wine and beef broth. Simmer until beef is tender.",
           "rating": 4.9,
@@ -74,6 +80,7 @@
         "recipes": [
             {
                 "name": "Spaghetti Carbonara",
+                "img" : "https://img.freepik.com/premium-vector/meat-salmon-skewers-with-ketchup-arugula-tomato-white-plate-vector-food-clipart_530505-582.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
                 "ingredients": ["spaghetti", "bacon", "egg yolks", "Parmesan cheese", "black pepper", "heavy cream"],
                 "method": "Boil the spaghetti, cook the bacon, whisk the egg yolks, add the Parmesan cheese, black pepper, and heavy cream to make the sauce, toss everything together.",
                 "rating": 4.8,
@@ -81,6 +88,7 @@
             },
             {
                 "name": "Lemon Bars",
+                "img" : "https://img.freepik.com/premium-vector/chickpeas-with-rice-broccoli-bowl-top-viewcartoon-drawinghealthy-vegetarian-food-vector_549497-405.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
                 "ingredients": ["all-purpose flour", "powdered sugar", "unsalted butter", "granulated sugar", "eggs", "lemons"],
                 "method": "Mix flour, powdered sugar, and butter, press into pan, bake. Mix granulated sugar, eggs, and lemon juice and zest, pour over crust, bake.",
                 "rating": 4.6,
@@ -88,6 +96,7 @@
             },
             {
                 "name": "Chili Con Carne",
+                "img" : "https://img.freepik.com/free-vector/watercolor-thai-food-illustration_23-2149306115.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
                 "ingredients": ["ground beef", "onion", "green bell pepper", "garlic", "tomato sauce", "chili powder"],
                 "method": "Brown the ground beef, onion, green bell pepper, and garlic. Add tomato sauce, chili powder, and other spices as desired. Simmer until thickened and flavors melded.",
                 "rating": 4.3,
@@ -106,6 +115,7 @@
         "recipes": [
           {
             "name": "Boeuf Bourguignon",
+            "img" : "https://img.freepik.com/premium-vector/sweet-sour-pork-chinese-food-vector-illustration_338371-855.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["beef chuck", "red wine", "onions", "carrots", "bacon", "garlic"],
             "method": "Marinate beef in red wine. Brown bacon in a large pot, then remove. Brown beef in bacon fat. Add onions, carrots, and garlic. Add back the bacon and beef. Pour in the marinade and simmer until tender.",
             "rating": 4.7,
@@ -113,6 +123,7 @@
           },
           {
             "name": "Coq au Vin",
+            "img" : "https://img.freepik.com/free-vector/realistic-poke-bowl-food-illustration_52683-82198.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr.webp",
             "ingredients": ["chicken", "red wine", "mushrooms", "pearl onions", "bacon"],
             "method": "Brown chicken in a large pot. Remove chicken and sauté mushrooms, onions, and bacon. Return chicken to the pot, pour in red wine, and simmer until chicken is cooked through.",
             "rating": 4.6,
@@ -120,6 +131,7 @@
           },
           {
             "name": "Chocolate Mousse",
+            "img" : "https://img.freepik.com/free-vector/realistic-thai-food-illustration_23-2149282150.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["chocolate", "eggs", "sugar", "heavy cream", "vanilla extract"],
             "method": "Melt chocolate in a bowl. Beat eggs and sugar in a separate bowl. Fold melted chocolate into the egg mixture. Whip cream with vanilla extract and fold into the chocolate mixture. Chill until set.",
             "rating": 4.9,
@@ -138,6 +150,7 @@
         "recipes": [
           {
             "name": "Pasta Carbonara",
+            "img" : "https://img.freepik.com/free-vector/bbq-grilled-steaks-served-with-various-herbs-condiments-sauce-wooden-table-realistic-illustration_1284-28248.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese", "black pepper"],
             "method": "Cook pasta until al dente. Fry pancetta until crispy. In a bowl, whisk together eggs, parmesan cheese, and black pepper. Drain pasta and toss with pancetta. Stir in egg mixture until creamy.",
             "rating": 4.5,
@@ -145,6 +158,7 @@
           },
           {
             "name": "Sticky Toffee Pudding",
+            "img" : "https://img.freepik.com/free-vector/watercolor-pilaf-illustration_52683-86292.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["dates", "butter", "sugar", "eggs", "flour", "vanilla ice cream"],
             "method": "Boil dates in water, then blend into a puree. Cream butter and sugar. Beat in eggs, flour, and date puree. Bake in a cake tin. Serve with vanilla ice cream.",
             "rating": 4.8,
@@ -152,6 +166,7 @@
           },
           {
             "name": "Chicken Korma",
+            "img" : "https://img.freepik.com/free-vector/realistic-pilaf-illustration_52683-87012.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["chicken", "onion", "garlic", "ginger", "yogurt", "spices"],
             "method": "Marinate chicken in yogurt and spices. Sauté onions, garlic, and ginger. Add chicken and cook until browned. Stir in more spices and simmer until chicken is cooked through.",
             "rating": 4.3,
@@ -170,6 +185,7 @@
         "recipes": [
           {
             "name": "Spaghetti Bolognese",
+            "img" : "https://img.freepik.com/premium-vector/nasi-goreng-seafood-seafood-fried-rice-white-background-top-view_307665-197.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["spaghetti", "beef mince", "tomatoes", "onion", "garlic", "olive oil"],
             "method": "1. Cook the spaghetti according to the package instructions. \n2. Heat the olive oil in a pan and fry the onion and garlic until soft. \n3. Add the beef mince and fry until browned. \n4. Add the tomatoes and simmer for 20 minutes. \n5. Serve with the cooked spaghetti.",
             "rating": 4.5,
@@ -177,6 +193,7 @@
           },
           {
             "name": "Roast Chicken",
+            "img" : "https://img.freepik.com/premium-vector/bakso-mercon-meatballs-with-spicy-sauce-top-view_307665-302.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
             "ingredients": ["whole chicken", "potatoes", "carrots", "onion", "garlic", "butter"],
             "method": "1. Preheat the oven to 200°C. \n2. Cut the potatoes, carrots, and onion into chunks and place them in a roasting tin. \n3. Rub the chicken with butter and season with salt and pepper. \n4. Place the chicken on top of the vegetables. \n5. Roast in the oven for 1 hour and 20 minutes, or until the chicken is cooked through. \n6. Serve with the roasted vegetables.",
             "rating": 4.8,
@@ -184,6 +201,7 @@
           },
           {
             "name": "Tiramisu",
+            "img" : "https://img.freepik.com/free-vector/hand-drawn-greek-cuisine_52683-82902.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr.webp",
             "ingredients": ["ladyfingers", "espresso", "sugar", "egg yolks", "mascarpone cheese", "cocoa powder"],
             "method": "1. Brew the espresso and add sugar to taste. \n2. Dip the ladyfingers in the espresso and layer them in a dish. \n3. Mix the egg yolks and sugar in a bowl. \n4. Add the mascarpone cheese and mix until smooth. \n5. Spread the mascarpone mixture over the ladyfingers. \n6. Refrigerate for at least 2 hours. \n7. Sprinkle cocoa powder over the top before serving.",
             "rating": 4.7,
